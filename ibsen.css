@@ -1,0 +1,29 @@
+/* Define styles for spoken text */
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+  }
+  
+  /* Define styles for non-spoken directions */
+  .direction {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: black;
+    background-color: #f2f2f2; /* Light background color for directions */
+    transition: background-color 0.3s, color 0.3s; /* Hover effect transition */
+  }
+  
+  /* Hover effect for directions */
+  .direction:hover {
+    background-color: #ddd; /* Change background color on hover */
+    color: #333; /* Change text color on hover */
+  }
+  
+  /* Define styles for each character's name */
+  /* For example: */
+  .mary {
+    color: #ff5733; /* Define color for Mary's name */
+  }
+  
+  /* Add styles for other characters as needed */
