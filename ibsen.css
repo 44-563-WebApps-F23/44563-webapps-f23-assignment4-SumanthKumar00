@@ -16,6 +16,12 @@
     color: blue;
   }
 
+  .name{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+    color: black;
+  }
+
   .SOLNESS {
     color: crimson;
   }
