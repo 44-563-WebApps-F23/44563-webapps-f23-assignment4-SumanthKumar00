@@ -29,3 +29,23 @@
   .KAIA {
     color: darkgreen;
   }
+
+  table{
+    border: solid 2px #2d2d2d;
+    width: 75%;
+  }
+
+  th, td{
+    border: solid 1px #232323;
+    padding: 0.2em;
+    margin: 0.1em;
+    text-align: center;
+  }
+
+  tr:hover {
+    background-color:#d7feb0;
+  }
+
+  tr:nth-child(even) {
+    background-color: #fbd6d6;
+  }
