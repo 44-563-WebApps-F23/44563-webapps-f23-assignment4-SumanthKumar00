@@ -68,3 +68,10 @@
     text-shadow: 2px 2px #daad456e;
     border: 2px solid #00bbff;
 }
+
+.image{
+  width:25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
